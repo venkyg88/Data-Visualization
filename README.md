@@ -15,3 +15,11 @@ What plot do you build in a given situation?
 
 
 
+Categorical variable
+Categorical variables contain a finite number of categories or distinct groups. Categorical data might not have a logical order. For example, categorical predictors include gender, material type, and payment method.
+Discrete variable
+Discrete variables are numeric variables that have a countable number of values between any two values. A discrete variable is always numeric. For example, the number of customer complaints or the number of flaws or defects.
+Continuous variable
+Continuous variables are numeric variables that have an infinite number of values between any two values. A continuous variable can be numeric or date/time. For example, the length of a part or the date and time a payment is received.
+Ordinal variable
+An ordinal variable is a categorical variable for which the possible values are ordered. Ordinal variables can be considered “in between” categorical and quantitative variables. Example: Educational level might be categorized as. 1: Elementary school education. 2: High school graduate.
