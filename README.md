@@ -47,7 +47,7 @@ Correlation coefficients provide a measure of the strength and direction of a li
 We can tell the direction based on whether the correlation is positive or negative.
 
 A rule of thumb for judging the strength:
-![alt text](https://github.com/venkyg88/Data-Visualization/cf-formula.png)
+![alt text](https://github.com/venkyg88/Data-Visualization/blob/master/cf-formula.png)
 
 
 It can also be calculated in Excel and other spreadsheet applications using CORREL(col1, col2), where col1 and col2 are the two columns you are looking to compare to one another.
