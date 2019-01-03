@@ -23,3 +23,12 @@ Continuous variable
 Continuous variables are numeric variables that have an infinite number of values between any two values. A continuous variable can be numeric or date/time. For example, the length of a part or the date and time a payment is received.
 Ordinal variable
 An ordinal variable is a categorical variable for which the possible values are ordered. Ordinal variables can be considered “in between” categorical and quantitative variables. Example: Educational level might be categorized as. 1: Elementary school education. 2: High school graduate.
+
+
+UNIVARIATE PLOTS
+What visualizations we use not only depends on the type of data but also on how many columns in your dataset you want to look at in a single plot.
+
+If you are only interested in one column in your dataset this is called univariate analysis where the uni stands for one. 
+
+Before we talk about comparing variable to one another, it's important to know which plots to create for univariate analysis. For univariate quantitative data both continuous and discrete the most common plot to visualize the data is known as a histogram. There are rare cases in which you might use a plot other than histogram. For univariate categorical data the most common plot is a bar chat. A bar chat is like a histogram but the bands are based on the set category and not based on the range the chart creator can change.
+
