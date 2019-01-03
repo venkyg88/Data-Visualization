@@ -40,3 +40,14 @@ Though there are a few different ways to measure correlation between two variabl
 Strength
 Direction
 of a linear relationship. Spearman's Correlation Coefficient does not measure linear relationships specifically, and it might be more appropriate for certain cases of associating two variables.
+
+Correlation Coefficients
+Correlation coefficients provide a measure of the strength and direction of a linear relationship.
+
+We can tell the direction based on whether the correlation is positive or negative.
+
+A rule of thumb for judging the strength:
+![alt text](https://github.com/venkyg88/Data-Visualization/cf-formula.png)
+
+
+It can also be calculated in Excel and other spreadsheet applications using CORREL(col1, col2), where col1 and col2 are the two columns you are looking to compare to one another.
