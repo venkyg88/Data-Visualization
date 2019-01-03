@@ -32,3 +32,11 @@ If you are only interested in one column in your dataset this is called univaria
 
 Before we talk about comparing variable to one another, it's important to know which plots to create for univariate analysis. For univariate quantitative data both continuous and discrete the most common plot to visualize the data is known as a histogram. There are rare cases in which you might use a plot other than histogram. For univariate categorical data the most common plot is a bar chat. A bar chat is like a histogram but the bands are based on the set category and not based on the range the chart creator can change.
 
+SCATTER PLOTS
+Scatter plots are a common visual for comparing two quantitative variables. A common summary statistic that relates to a scatter plot is the correlation coefficient commonly denoted by r.
+
+Though there are a few different ways to measure correlation between two variables, the most common way is with Pearson's correlation coefficient. Pearson's correlation coefficient provides the:
+
+Strength
+Direction
+of a linear relationship. Spearman's Correlation Coefficient does not measure linear relationships specifically, and it might be more appropriate for certain cases of associating two variables.
