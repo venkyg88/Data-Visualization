@@ -93,3 +93,23 @@ Focus attention where you want it - build visualizations that pull attention to 
 Think like a designer - you will learn a number of design principles in this lesson to assist as you start to put together your own data visualizations.
 
 Tell a story - your visualizations should give the audience a story. The most powerful data visualizations move people to take action.
+
+
+There are two main reasons for creating visuals using data:
+
+Exploratory analysis is done when you are searching for insights. These visualizations don't need to be perfect. You are using plots to find insights, but they don't need to be aesthetically appealing. You are the consumer of these plots, and you need to be able to find the answer to your questions from these plots.
+
+
+Explanatory analysis is done when you are providing your results for others. These visualizations need to provide you the emphasis necessary to convey your message. They should be accurate, insightful, and visually appealing.
+
+The five steps of the data analysis process:
+
+Extract - Obtain the data from a spreadsheet, SQL, the web, etc.
+
+Clean - Here we could use exploratory visuals.
+
+Explore - Here we use exploratory visuals.
+
+Analyze - Here we might use either exploratory or explanatory visuals.
+
+Share - Here is where explanatory visuals live.
