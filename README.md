@@ -139,7 +139,7 @@ Shading or 3d components
 Ornamented chart axes
 
 DATA-INK RATIO
-(https://github.com/venkyg88/Data-Visualization/blob/master/data-ink-ratio.png)
+![alt text](https://github.com/venkyg88/Data-Visualization/blob/master/data-ink-ratio.png)
 
 The data-ink ratio, credited to Edward Tufte, is directly related to the idea of chart junk. The more of the ink in your visual that is related to conveying the message in the data, the better.
 
