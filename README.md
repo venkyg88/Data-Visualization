@@ -144,3 +144,25 @@ DATA-INK RATIO
 The data-ink ratio, credited to Edward Tufte, is directly related to the idea of chart junk. The more of the ink in your visual that is related to conveying the message in the data, the better.
 
 Limiting chart junk increases the data-ink ratio.
+
+
+Design Integrity Notes
+It is key that when you build plots you maintain integrity for the underlying data.
+
+One of the main ways discussed here for looking at data integrity was with the lie factor. Lie factor depicts the degree to which a visualization distorts or misrepresents the data values being plotted. It is calculated in the following way:
+
+![alt text](https://github.com/venkyg88/Data-Visualization/blob/master/design-integrity1.png)
+
+The delta symbol (\DeltaΔ) stands for difference or change. In words, the lie factor is the relative change shown in the graphic divided by the actual relative change in the data. Ideally, the lie factor should be 1: any other value means that there is some mismatch in the ratio of depicted change to actual change.
+
+Lie Factor in the Video
+The lie factor shown in the video was in comparing the largest to the smallest doctor in terms of pixels.
+
+
+![alt text](https://github.com/venkyg88/Data-Visualization/blob/master/design-integrity2.png)
+
+Lie Factor in the Video
+The lie factor shown in the video was in comparing the largest to the smallest doctor in terms of pixels.
+
+![alt text](https://github.com/venkyg88/Data-Visualization/blob/master/design-integrity3.png)
+
