@@ -80,7 +80,7 @@ DESIGN
 
 ![alt text](https://github.com/venkyg88/Data-Visualization/blob/master/design.png)
 
-You can see one of Cole's seminars here![alt text](https://www.youtube.com/watch?v=8EMW7io4rSI). She stresses that six lessons of communicating with data:
+You can see one of Cole's seminars [here!](https://www.youtube.com/watch?v=8EMW7io4rSI). She stresses that six lessons of communicating with data:
 
 Understand the context - this means knowing your audience and conveying a clear message about what you want your audience to know or do with the information you are providing.
 
