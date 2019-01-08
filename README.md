@@ -113,3 +113,15 @@ Explore - Here we use exploratory visuals.
 Analyze - Here we might use either exploratory or explanatory visuals.
 
 Share - Here is where explanatory visuals live.
+
+What makes a visual bad?
+Visuals can be bad if they:
+Don't convey the message.
+Are misleading.
+This seems straightforward, but often visuals are created that do one or both of these unintentionally. There is an entire book that was published aimed at misleading visuals: ![How to Lie with Statistics](http://faculty.neu.edu.cn/cc/zhangyf/papers/How-to-Lie-with-Statistics.pdf).
+
+What experts say about visual encodings?
+
+Experts and researchers have determined the visual patterns that allow humans to `best` identify certain patterns. In general, humans are able to best understand data encoded with positional changes (differences in x- and y- position as we see with scatterplots) and length changes (differences in box heights as we see with bar charts and histograms).
+
+Alternatively, humans `struggle` with understanding data encoded with color hue changes (as is commonly used as an additional variable encoding in scatter plots - this is coming up in the next concepts) and area changes (as we see in pie charts).
