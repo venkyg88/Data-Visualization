@@ -78,7 +78,7 @@ You gained some insight into visual encodings and data dashboards, which will be
 
 DESIGN
 
-![alt text](https://github.com/venkyg88/Data-Visualization/blob/master/cf-formula.png)
+![alt text](https://github.com/venkyg88/Data-Visualization/blob/master/design.png)
 
 You can see one of Cole's seminars here![alt text](https://www.youtube.com/watch?v=8EMW7io4rSI). She stresses that six lessons of communicating with data:
 
