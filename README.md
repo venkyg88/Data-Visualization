@@ -74,3 +74,22 @@ You then looked at cases where we had more than two variables. You learned that 
 
 
 You gained some insight into visual encodings and data dashboards, which will be a part of the next lessons!
+
+
+**DESIGN**
+
+![alt text](https://github.com/venkyg88/Data-Visualization/blob/master/cf-formula.png)
+
+You can see one of Cole's seminars here![alt text](https://www.youtube.com/watch?v=8EMW7io4rSI). She stresses that six lessons of communicating with data:
+
+Understand the context - this means knowing your audience and conveying a clear message about what you want your audience to know or do with the information you are providing.
+
+Choose an appropriate visual display - this was covered in the last lesson. Check out the lesson titled recap in the previous section if you need a quick refresher. 
+
+Eliminate clutter - you should only provide information to the user that helps convey your message.
+
+Focus attention where you want it - build visualizations that pull attention to the message you want to highlight. 
+
+Think like a designer - you will learn a number of design principles in this lesson to assist as you start to put together your own data visualizations.
+
+Tell a story - your visualizations should give the audience a story. The most powerful data visualizations move people to take action.
