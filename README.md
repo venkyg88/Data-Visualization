@@ -125,3 +125,15 @@ What experts say about visual encodings?
 Experts and researchers have determined the visual patterns that allow humans to `best` identify certain patterns. In general, humans are able to best understand data encoded with positional changes (differences in x- and y- position as we see with scatterplots) and length changes (differences in box heights as we see with bar charts and histograms).
 
 Alternatively, humans `struggle` with understanding data encoded with color hue changes (as is commonly used as an additional variable encoding in scatter plots - this is coming up in the next concepts) and area changes (as we see in pie charts).
+
+Chart Junk
+
+Chart junk refers to all visual elements in charts and graphs that are not necessary to comprehend the information represented on the graph or that distract the viewer from this information.
+
+Examples of chart junk you saw in this video include:
+
+Heavy grid lines
+Unnecessary text
+Pictures surrounding the visual
+Shading or 3d components
+Ornamented chart axes
