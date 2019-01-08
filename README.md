@@ -76,7 +76,7 @@ You then looked at cases where we had more than two variables. You learned that 
 You gained some insight into visual encodings and data dashboards, which will be a part of the next lessons!
 
 
-**DESIGN**
+DESIGN
 
 ![alt text](https://github.com/venkyg88/Data-Visualization/blob/master/cf-formula.png)
 
